@@ -1,0 +1,6 @@
+/home/ubuntu/Android/cmake/3.22.1/bin/ninja \
+  -C \
+  /home/ubuntu/TodoCatApp/android/app/.cxx/RelWithDebInfo/4t3b6u4g/armeabi-v7a \
+  appmodules \
+  react_codegen_rnscreens \
+  react_codegen_safeareacontext

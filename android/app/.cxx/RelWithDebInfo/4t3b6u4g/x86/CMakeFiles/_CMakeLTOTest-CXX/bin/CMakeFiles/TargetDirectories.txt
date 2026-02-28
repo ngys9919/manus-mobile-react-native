@@ -1,0 +1,4 @@
+/home/ubuntu/TodoCatApp/android/app/.cxx/RelWithDebInfo/4t3b6u4g/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+/home/ubuntu/TodoCatApp/android/app/.cxx/RelWithDebInfo/4t3b6u4g/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/home/ubuntu/TodoCatApp/android/app/.cxx/RelWithDebInfo/4t3b6u4g/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/home/ubuntu/TodoCatApp/android/app/.cxx/RelWithDebInfo/4t3b6u4g/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir

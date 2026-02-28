@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "com.todocatapp-release-43:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_module_assets_clearicon.png.flat",
+        "source": "com.todocatapp-react-39:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_module_assets_clearicon.png"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.todocatapp-main-44:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_module_assets_closeicon.png.flat",
+        "source": "com.todocatapp-react-39:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_module_assets_closeicon.png"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/drawable-mdpi_node_modules_reactnavigation_elements_lib_module_assets_backiconmask.png.flat",
+        "source": "com.todocatapp-react-39:/drawable-mdpi/node_modules_reactnavigation_elements_lib_module_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/drawable-mdpi_node_modules_reactnavigation_elements_lib_module_assets_backicon.png.flat",
+        "source": "com.todocatapp-react-39:/drawable-mdpi/node_modules_reactnavigation_elements_lib_module_assets_backicon.png"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_module_assets_searchicon.png.flat",
+        "source": "com.todocatapp-react-39:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_module_assets_searchicon.png"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.todocatapp-main-44:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.todocatapp-main-44:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_module_assets_clearicon.png.flat",
+        "source": "com.todocatapp-react-39:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_module_assets_clearicon.png"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/drawable-mdpi_node_modules_reactnavigation_elements_lib_module_assets_closeicon.png.flat",
+        "source": "com.todocatapp-react-39:/drawable-mdpi/node_modules_reactnavigation_elements_lib_module_assets_closeicon.png"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.todocatapp-main-44:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/raw_keep.xml.flat",
+        "source": "com.todocatapp-react-39:/raw/keep.xml"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.todocatapp-main-44:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/drawable-mdpi_node_modules_reactnavigation_elements_lib_module_assets_clearicon.png.flat",
+        "source": "com.todocatapp-react-39:/drawable-mdpi/node_modules_reactnavigation_elements_lib_module_assets_clearicon.png"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_module_assets_clearicon.png.flat",
+        "source": "com.todocatapp-react-39:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_module_assets_clearicon.png"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.todocatapp-main-44:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.todocatapp-main-44:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_module_assets_searchicon.png.flat",
+        "source": "com.todocatapp-react-39:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_module_assets_searchicon.png"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.todocatapp-main-44:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_module_assets_searchicon.png.flat",
+        "source": "com.todocatapp-react-39:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_module_assets_searchicon.png"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.todocatapp-main-44:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_module_assets_backicon.png.flat",
+        "source": "com.todocatapp-react-39:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_module_assets_backicon.png"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_module_assets_backicon.png.flat",
+        "source": "com.todocatapp-react-39:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_module_assets_backicon.png"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_module_assets_closeicon.png.flat",
+        "source": "com.todocatapp-react-39:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_module_assets_closeicon.png"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/drawable-mdpi_node_modules_reactnavigation_elements_lib_module_assets_searchicon.png.flat",
+        "source": "com.todocatapp-react-39:/drawable-mdpi/node_modules_reactnavigation_elements_lib_module_assets_searchicon.png"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_module_assets_backicon.png.flat",
+        "source": "com.todocatapp-react-39:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_module_assets_backicon.png"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.todocatapp-main-44:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.todocatapp-main-44:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.todocatapp-release-43:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_module_assets_closeicon.png.flat",
+        "source": "com.todocatapp-react-39:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_module_assets_closeicon.png"
+    }
+]

@@ -1,0 +1,17 @@
+ninja: Entering directory `/home/ubuntu/TodoCatApp/android/app/.cxx/RelWithDebInfo/4t3b6u4g/x86'
+[0/2] Re-checking globbed directories...
+[1/2] Re-running CMake...
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ubuntu/TodoCatApp/android/app/.cxx/RelWithDebInfo/4t3b6u4g/x86
+[0/2] Re-checking globbed directories...
+[1/10] Building CXX object rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/EventEmitters.cpp.o
+[2/10] Building CXX object rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/States.cpp.o
+[3/10] Building CXX object rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/Props.cpp.o
+[4/10] Building CXX object rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/rnasyncstorageJSI-generated.cpp.o
+[5/10] Building CXX object rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ShadowNodes.cpp.o
+[6/10] Building CXX object rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ComponentDescriptors.cpp.o
+[7/10] Building CXX object CMakeFiles/appmodules.dir/OnLoad.cpp.o
+[8/10] Building CXX object rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/rnasyncstorage-generated.cpp.o
+[9/10] Building CXX object CMakeFiles/appmodules.dir/home/ubuntu/TodoCatApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o
+[10/10] Linking CXX shared library /home/ubuntu/TodoCatApp/android/app/build/intermediates/cxx/RelWithDebInfo/4t3b6u4g/obj/x86/libappmodules.so

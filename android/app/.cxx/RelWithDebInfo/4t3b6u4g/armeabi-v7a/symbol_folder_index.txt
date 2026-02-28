@@ -1,0 +1,1 @@
+/home/ubuntu/TodoCatApp/android/app/build/intermediates/cxx/RelWithDebInfo/4t3b6u4g/obj/armeabi-v7a
